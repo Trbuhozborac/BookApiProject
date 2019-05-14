@@ -1,0 +1,14 @@
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\bin\Debug\netcoreapp2.1\BookApiProject.deps.json
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\bin\Debug\netcoreapp2.1\BookApiProject.runtimeconfig.json
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\bin\Debug\netcoreapp2.1\BookApiProject.runtimeconfig.dev.json
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\bin\Debug\netcoreapp2.1\BookApiProject.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\bin\Debug\netcoreapp2.1\BookApiProject.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.csprojAssemblyReference.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.csproj.CoreCompileInputs.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.RazorAssemblyInfo.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.RazorAssemblyInfo.cs
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.AssemblyInfoInputs.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.AssemblyInfo.cs
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\BookApiProject\obj\Debug\netcoreapp2.1\BookApiProject.pdb
