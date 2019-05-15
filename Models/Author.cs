@@ -23,7 +23,7 @@ namespace BookApiProject.Models
 
         public virtual Country Country { get; set; }
 
-        public virtual ICollection<BookAuthor> BookAuthors { get; set; }
+        public virtual ICollection<BookAuthor> Book { get; set; }
 
     }
 }

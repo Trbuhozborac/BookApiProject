@@ -15,6 +15,14 @@ namespace BookApiProject.Services
         Book GetBook(int bookId);
 
         bool BookExist(int bookId);
+
+        bool CreatedBook(Book book);
+        bool UpdateBook(Book book);
+        bool DeleteBook(Book book);
+        bool Save();
+
+        bool IsDuplicatedBookId(int bookId, string bookTitle);
         
+
     }
 }
